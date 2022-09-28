@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Scono/Documents/Saxion/Week3_2/cmake-build-debug/CMakeFiles/Week3_2.dir
+/cygdrive/c/Users/Scono/Documents/Saxion/Week3_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Scono/Documents/Saxion/Week3_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
