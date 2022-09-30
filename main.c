@@ -1,5 +1,5 @@
 /* Program that prints a tree too specified height, with random ornaments
- * as well as having a trung 1/4 the size of a tree
+ * as well as having a trunk 1/4 the size of a tree
  * Stefan Conovali 539716 28/09/2022*/
 
 #include <stdio.h>
